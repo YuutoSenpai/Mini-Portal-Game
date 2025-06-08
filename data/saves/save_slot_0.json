@@ -1,0 +1,23 @@
+{
+  "current_level": 9,
+  "player_x": 1348.8520232434985,
+  "player_y": 1134.7676445125294,
+  "game_state": "playing",
+  "save_timestamp": "2025-06-08T17:56:55.844988",
+  "levels_completed": 9,
+  "best_times": {
+    "7": 55.1709930896759,
+    "8": 98.9786217212677
+  },
+  "level_stars": {
+    "7": 2,
+    "8": 2
+  },
+  "hints_shown": [
+    8,
+    9,
+    7
+  ],
+  "total_stars": 4,
+  "levels_unlocked": 10
+}
